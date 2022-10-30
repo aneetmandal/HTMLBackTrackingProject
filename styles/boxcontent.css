@@ -1,0 +1,19 @@
+.sizing-content-example {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid red;
+    padding: 2px;
+    display: inline-block;
+    box-sizing: content-box;
+}
+
+.sizing-box-example {
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    border: 2px solid saddlebrown;
+    padding: 2px;
+    display: inline-block;
+    box-sizing: border-box;
+}

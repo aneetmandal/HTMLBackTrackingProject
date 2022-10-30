@@ -1,0 +1,80 @@
+/* h1 {
+    background-color: yellowgreen;
+   margin:0;
+   margin-left: 30px;
+   margin-right: 30px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin: 50px 40px 60px 30px;
+   padding: 20px;
+   padding-top: 30px;
+   padding-bottom: 20px;
+   padding-left: 10px;
+   padding-right: 40px;
+   padding: 10px 20px 30px 40px;
+}
+
+body {
+    margin: 0px;
+}
+
+p {
+    background-color: red;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin: 50px 20px;
+    margin: 50px 20px 60px;
+    padding: 5px;
+} */
+
+/* p {
+background-color: yellow;
+} */
+
+/* .copyright{
+    background-color: yellow;
+} */
+
+/* .description {
+background-color: yellow;
+color: blue;
+}
+
+.para {
+    border: 2px solid red;  
+}
+
+#copyright {
+background-color: aqua;
+} */
+
+/* .heading1 {
+    display: inline;
+
+}
+
+.heading2 {
+display: inline;
+font-size: 12px;
+} */
+
+.primary-text {
+background-color: red;
+display: inline-block;
+visibility: initial; 
+width: 200px;
+height: 200px;
+}
+
+.secondary-text {
+background-color: blue;
+display: inline-block;
+width: 200px;
+height: 200px;
+}
+
+.primary-text-container {
+    visibility: hidden;
+}

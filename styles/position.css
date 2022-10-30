@@ -1,0 +1,52 @@
+.div1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 2px solid blue;
+    /* position: sticky;
+    top: 0px; */
+    /* position: relative;
+    right: 50px;
+    top: 50px; */
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: 2px solid yellow;
+    position: relative;
+    /* z-index: 1; */
+    /* position: absolute; */
+    /* left: 100px;
+    top: 50px; */
+}
+
+.div3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid orangered;
+    /* margin-top: -50px; */
+    /* position: relative;
+    z-index: 2; */
+    /* position: relative; */
+}
+
+/* .add-text {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+} */
+
+.child  {
+    width: 30px;
+    height: 30px;
+    background-color: blueviolet;
+}
+
+.grand-child {
+    width: 10px;
+    height: 10px;
+    background-color: bisque;
+}
